@@ -1,0 +1,1 @@
+{"xapk_version":2,"package_name":"com.meitu.wink","name":"com.meitu.wink","version_name":"3.6.5","version_code":"30605","total_size":216443840,"icon":"icon.png","split_apks":[{"file":"com.meitu.wink.apk","id":"base"},{"file":"config.arm64_v8a.apk","id":"config.arm64_v8a"},{"file":"config.xxhdpi.apk","id":"config.xxhdpi"}]}
